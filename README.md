@@ -1,2 +1,2 @@
 # FSWD
-Folder for coding reference.
+Folders for coding reference.
